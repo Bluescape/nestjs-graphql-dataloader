@@ -19,9 +19,7 @@
     "graphql",
     "dataloader"
   ],
-  "publishConfig": {
-    "registry": "https://artifactory.common.bluescape.com/api/npm/bluescape-common"
-  },
+  "publishConfig":{"registry":"https://bluescape.jfrog.io/artifactory/api/npm/bluescape-common/"},
   "files": [
     "dist"
   ],
